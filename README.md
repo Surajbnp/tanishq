@@ -50,6 +50,9 @@
 - CSS
 - JavaScript (ES6)
 
+- Blog link
+https://medium.com/@bushrajabeen/although-with-each-passing-unit-we-learn-new-things-and-level-up-but-this-unit-was-just-too-mind-b06972574afe
+
 # Cloner's
 
 - [@Suraj Kumar Gupta](https://github.com/Surajbnp)
